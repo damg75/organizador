@@ -1,5 +1,5 @@
 ---
-en:
+es:
   activerecord:
     models:
       category:
@@ -7,15 +7,15 @@ en:
         others: Categorías
   categories:
     form:
-      description: Description
-      name: Name
+      description: Descripción
+      name: Nombre
     new_category: Nueva Categoría
   common:
     back: Atrás
   hello: Hello world
   task:
     errors:
-      invalid_due_date: Invalid due date
+      invalid_due_date: La fecha no puede estar en el pasado
   users:
     first_name: First name
     form:
