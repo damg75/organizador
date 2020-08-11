@@ -28,6 +28,9 @@ gem 'i18n'
 gem 'i18n-tasks', '~> 0.9.31'
 gem 'rails-i18n'
 gem 'devise'
+gem 'cocoon'
+gem 'cancancan'
+
 
 
 
