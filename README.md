@@ -2,6 +2,7 @@ iniciando el trtackeo
 
 Callbacks en Rails init
 Callbacks en Rails fin
+Seeds en rails init
 
 # README
 
