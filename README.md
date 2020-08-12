@@ -7,6 +7,7 @@ Seeds en rails fin
 Enviando e-mails a los participantes init
 Enviando e-mails a los participantes fin
 Añandiendo notas a la tarea init
+Añandiendo notas a la tarea fin
 
 
 # README
