@@ -5,6 +5,7 @@ Callbacks en Rails fin
 Seeds en rails init
 Seeds en rails fin
 Enviando e-mails a los participantes init
+Enviando e-mails a los participantes fin
 
 # README
 
