@@ -1,3 +1,7 @@
+iniciando el trtackeo
+
+Callbacks en Rails init
+
 # README
 
 This README would normally document whatever steps are necessary to get the
