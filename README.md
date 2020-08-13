@@ -10,6 +10,7 @@ Añandiendo notas a la tarea init
 Añandiendo notas a la tarea fins
 Añadiendo notas con AJAX init
 Añadiendo notas con AJAX fins
+Embelleciendo nuestra aplicación
 
 
 # README
